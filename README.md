@@ -79,7 +79,7 @@ You can:
 
 | Name | Role | Contact |
 |------|------|----------|
-| **Ronit Raj** | Founder & Maintainer | [LinkedIn](www.linkedin.com/in/ronit-raj-114181315) |
+| **Ronit Raj** | Founder & Maintainer | [LinkedIn](www.linkedin.com/in/ronit-raj7497) |
 
 ---
 
