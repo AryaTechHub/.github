@@ -13,7 +13,7 @@ AryaTechHub-Main
 > **Your Digital Hub for Engineering Notes & Resources**  
 > _“Learn. Build. Share. — Together we grow!”_
 
-![AryaTechHub Logo](https://github.com/AryaTechHub/.github/blob/main/profile/logo.png)
+![AryaTechHub Logo](AryaTechHub.jpg)
 
 ---
 
