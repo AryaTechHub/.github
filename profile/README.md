@@ -31,10 +31,10 @@ This project aims to make learning easier by collecting quality notes from diffe
 
 | Subject | Description | Repo Link |
 |----------|-------------|------------|
-| 🧠 **Digital Electronics** | Logic gates, flip-flops, combinational circuits, and design problems. | [View Repository](https://github.com/AryaTechHub/digital-electronics) |
-| ⚙️ **Data Structures & Algorithms** | Notes, code examples, and visual explanations for core DSA concepts. | [View Repository](https://github.com/AryaTechHub/data-structures) |
-| 💻 **Object-Oriented Programming (OOPs)** | Concepts, C++ examples, inheritance, polymorphism, and practice sets. | [View Repository](https://github.com/AryaTechHub/oops) |
-| 🧩 **Software Engineering** | SDLC models, UML diagrams, project case studies, and documentation notes. | [View Repository](https://github.com/AryaTechHub/software-engineering) |
+| 🧠 **Digital Electronics** | Logic gates, flip-flops, combinational circuits, and design problems. | [View Repository](https://github.com/Ronit049/AryaTechHub-Notes) |
+| ⚙️ **Data Structures & Algorithms** | Notes, code examples, and visual explanations for core DSA concepts. | [View Repository](https://github.com/Ronit049/AryaTechHub-Notes) |
+| 💻 **Object-Oriented Programming (OOPs)** | Concepts, C++ examples, inheritance, polymorphism, and practice sets. | [View Repository](https://github.com/Ronit049/AryaTechHub-Notes) |
+| 🧩 **Software Engineering** | SDLC models, UML diagrams, project case studies, and documentation notes. | [View Repository](https://github.com/Ronit049/AryaTechHub-Notes) |
 
 ---
 
